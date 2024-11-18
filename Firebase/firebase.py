@@ -2,7 +2,7 @@
 import pyrebase
 
 firebaseConfig = {
-    "apiKey": "AIzaSyCB42ADs5t3A6ELhGnjDFQ1x0eAi0VeeWE",
+    "apiKey": "<FIREBASE-APIKEY-HERE>",
     "authDomain": "diegobm23-05082023.firebaseapp.com",
     "projectId": "diegobm23-05082023",
     "databaseURL": "https://diegobm23-05082023.firebaseio.com",
