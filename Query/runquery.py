@@ -1,7 +1,7 @@
 import pymongo
 from query import getquery
 
-mongodb_uri = "mongodb+srv://diegomoreira:SRmTpIYdzaCvFBIQOC@asaplog-development-pri.2rgxp.mongodb.net/?retryWrites=true&w=majority"
+mongodb_uri = "<MONGODB_URI>"
 mongo_client = pymongo.MongoClient(mongodb_uri)
 
 
